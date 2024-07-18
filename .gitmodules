@@ -1,0 +1,24 @@
+[submodule "project4"]
+	path = project4
+	url = https://github.com/Mohammadhnegaresh78/project4.git
+[submodule "project1"]
+	path = project1
+	url = https://github.com/Mohammadhnegaresh78/project1.git
+[submodule "project2"]
+	path = project2
+	url = https://github.com/Mohammadhnegaresh78/project2.git
+[submodule "project3"]
+	path = project3
+	url = https://github.com/Mohammadhnegaresh78/project3.git
+[submodule "path/to/project1"]
+	path = path/to/project1
+	url = https://github.com/Mohammadhnegaresh78/project1.git
+[submodule "path/to/project2"]
+	path = path/to/project2
+	url = https://github.com/Mohammadhnegaresh78/project2.git
+[submodule "path/to/project3"]
+	path = path/to/project3
+	url = https://github.com/Mohammadhnegaresh78/project3.git
+[submodule "path/to/project4"]
+	path = path/to/project4
+	url = https://github.com/Mohammadhnegaresh78/project4.git
